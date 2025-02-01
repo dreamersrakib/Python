@@ -1,0 +1,17 @@
+from turtle import *
+##hideturtle()
+pensize(5)
+##speed(9)
+
+color("purple")
+fillcolor("lightgreen")
+begin_fill()
+forward(150)
+left(90)
+forward(100)
+left(90)
+forward(150)
+left(90)
+forward(100)
+left(90)
+end_fill()
